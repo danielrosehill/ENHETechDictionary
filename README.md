@@ -15,7 +15,7 @@ I will get round to ordering the table alphabetically at some stage.
 | NAS              | שרת אחסון / NAS         |       |
 | Enclosure        | מארז               |       |
 | Disk/drive enclosure | מארז לכונן קשיח |    |
-| Disk/drive | כונן |    |
+| Disk/drive |  / דיסק  כונן |    |
 | Case (PC)        | מארז למחשב           |       |
 | RAM              | זיכרון             |       |
 | Desktop computer | מחשב נייח          |       |
