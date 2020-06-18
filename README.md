@@ -12,8 +12,10 @@ I will get round to ordering the table alphabetically at some stage.
 
 | English          | Hebrew             | Notes |
 |------------------|--------------------|-------|
-| NAS              | שרת אחסון          |       |
+| NAS              | שרת אחסון / NAS         |       |
 | Enclosure        | מארז               |       |
+| Disk/drive enclosure | מארז לכונן קשיח |    |
+| Disk/drive | כונן |    |
 | Case (PC)        | מארז למחשב           |       |
 | RAM              | זיכרון             |       |
 | Desktop computer | מחשב נייח          |       |
@@ -25,6 +27,8 @@ I will get round to ordering the table alphabetically at some stage.
 | Screen | מסך |    |
 | Processor (CPU) | מעבד |   |
 | Motherboard | לוח אם |     |
+| Server | שרת |    |
+| Computer | מחשב |    |
 | CPU fans | מאוורים למעבדים |    |
 | Case fans | מאוורים למארזים |     |
 | Sound card | כרטיס קול |     |
@@ -34,13 +38,36 @@ I will get round to ordering the table alphabetically at some stage.
 | External HDDs/SDDs | דיסקים קשיחים חיצוניים |    |
 | Standard desktops (not built to spec) | מחשב מותג |    |
 | UPS | אל ספק |    |
+| PSU | ספק כוח |   |
+| Surge protector | מגן ברק |   |
 | Mouse | עבבר |   |
 | Keyboard |  מקלדת  |    |
 | Wireless | אלחוטי |      |
 | Wired | טוטי |   |
+| Laser printer | מדפסת לייזר |   |
+| Network card | כרטיס רשת |   |
+| Router | מתיב |   |
+| Ethernet switches | מתגים / switches |     |
+| KVM switch | מתג KVM |      |
+| USB splitter | מפצל USB |    |
+| Ethernet over power extenders | מתאם רשת חשמל |     |
+| Extension | מתאם |     |
+| Range extender | מגדיל טווח |    |
+| Port | יציאה |   |
 
 
 
 ## Storage media
 
 HDD
+
+דיסק קשיח
+Is used for SDDs too even though it's a misnomer.
+
+But as many people working in technology have good English 
+
+דיסק SDD
+Is understood too.
+
+
+
