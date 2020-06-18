@@ -66,7 +66,7 @@ Is used for SDDs too even though it's a misnomer.
 
 But as many people working in technology have good English 
 
-דיסק SDD
+דיסק SSD
 Is understood too.
 
 
