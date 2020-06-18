@@ -14,9 +14,33 @@ I will get round to ordering the table alphabetically at some stage.
 |------------------|--------------------|-------|
 | NAS              | שרת אחסון          |       |
 | Enclosure        | מארז               |       |
+| Case (PC)        | מארז למחשב           |       |
 | RAM              | זיכרון             |       |
 | Desktop computer | מחשב נייח          |       |
 | Laptop           | מחשב נייד          |       |
 | GPU              | כרטיס מסך          |       |
 | Monitor arm      | זרוע למסך          |       |
 | VESA bracket     | מתקני תלייה למסכים |       |
+| Tablet     | טאבלט |       |
+| Screen | מסך |    |
+| Processor (CPU) | מעבד |   |
+| Motherboard | לוח אם |     |
+| CPU fans | מאוורים למעבדים |    |
+| Case fans | מאוורים למארזים |     |
+| Sound card | כרטיס קול |     |
+| HDD | דיסק קשיח |    |
+| SDD | דיסק קשיח SDD |     |
+| Interal HDDs/SDDs | 'דיסקים קשיחים פנימיים |   |
+| External HDDs/SDDs | דיסקים קשיחים חיצוניים |    |
+| Standard desktops (not built to spec) | מחשב מותג |    |
+| UPS | אל ספק |    |
+| Mouse | עבבר |   |
+| Keyboard |  מקלדת  |    |
+| Wireless | אלחוטי |      |
+| Wired | טוטי |   |
+
+
+
+## Storage media
+
+HDD
