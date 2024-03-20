@@ -14,7 +14,7 @@ Every best attempt has been made in compiling this information, but the author t
 
 1. Download [Anki](https://apps.ankiweb.net/) (Windows, Mac, Linux, iOS, Android)
 
-![readme1.png](https://github.com/danielrosehill/ENHETechDictionary/blob/master/images/readme1.png)
+![readme1.png](https://raw.githubusercontent.com/danielrosehill/ENHETechDictionary/master/images/readme1.png)
 
 ## Import Card Deck In Your Preferred Format
 
