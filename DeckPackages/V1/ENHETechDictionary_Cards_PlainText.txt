@@ -1,0 +1,3330 @@
+#separator:tab
+#html:true
+"<p><b>English word:</p></b>
+
+NAS
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+שרת אחסון
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Sharat ikh-sun</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Enclosure (for external HDD, SSD, etc)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">מארז לכונן קשיח</span>
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'><span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">מארז חיצוני</span></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""https://ksp.co.il/web/cat/348"">https://ksp.co.il/web/cat/348</a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Server
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Computer for storing data</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+שרת&nbsp;
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Shar-at</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""http://www.iserver.co.il/sharatim.html"">http://www.iserver.co.il/sharatim.html</a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'><span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">שָׁרָת</span></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Case
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Enclosure for hardware. As in a desktop case.&nbsp;</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מארז
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Ma-ah-raz</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>מארזי מחשב</div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+RAM
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Random access memory</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+זיכרון
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Desktop computer
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מחשב נייח
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Makhshev ni-yach</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>מחשב שולחני</div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Laptop
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מחשב נייד
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>makh-shev na-yad</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+GPU
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Graphics processing unit (GPU), computer component&nbsp;</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">כרטיס מסך</span>
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>car-tees ma-sakh</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Monitor arm&nbsp;
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Arms for connecting computer monitors to desks by attaching to VESA mounts</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+זרוע למסך
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>zro-ah la-masakh</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Tablet
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+טאבלט
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>tab-let</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Yes, transliterated</div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Screen
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Computer monitor</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">מסך</span>
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Mah-sakh</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+CPU / Processor
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מעבד
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>May-ah-ved</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Motherboard (computer component)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+לוח אם
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Lu-ach ehm</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Fan
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Cooling devices - as in for CPUs&nbsp;</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מאוורר&nbsp;
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>May-ah-vrayer</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+UPS
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Uninterruptible power supply for hardware</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אל ספק
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>al pesek</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Surge protector
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Appliance to protect hardware from electrical surges&nbsp;</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מגן ברק
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>mah-gayn bar-ak</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Container
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>As in Docker containers&nbsp;</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+קונטיינר
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>kon-tay-ner</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Virtual machine (VM)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מכונה וירטואלית
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>me-kho-nah vir-too-ah-leet</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Laser printer
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מדפסת לייזר
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>mid-peh-set lay-zehr</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+IP address
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+כתובת IP
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>keh-toh-vet IP</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Router
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Networking appliance</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+נתב
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>nah-tav</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>ראוטר</div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Networking card (NIC)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+כרטיס רשת
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>car-tees reh-shet</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Switch
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Networking switch for connecting wired devices</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מתג
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Meh-teg</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Splitter
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Hardware device for dividing an input/output. For example, a USB or 3.5mm splitter.</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מפצל
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>mif-tsel</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Extension cable
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+כבל מאריך
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>kah-bel ma-ah-rich</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Internet service provider (ISP)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+ספק אינטרנט
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Sa-pak internet&nbsp;</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Local area network (LAN)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+רשת מקומית
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Reh-shet m'koh-meet</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Wide area network (WAN)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+רשת תקשורת מרחבית
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Port
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Networking port</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+פורט
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>יציאה</div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Port (hardware output)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>For example a HDMI port</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+יציאה
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Yeh-tsee-ah</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Wireless&nbsp;
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Wireless devices like wireless mouses</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אלחוטי
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>al-khutee</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Ethernet
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Wired networking cable and a synonym for the RJ45 port to connect to it</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אטרנט
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>ee-ter-net</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>אינטרנט קווי</div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+USB adapter
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מתאם&nbsp;
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>meh-tah-ehm</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Remote control
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+שלט
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>sha-lat</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>שלט רחוק</div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Integration
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Systems integration, app integration</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אינטגרציה
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>een-teh-grah-tsia</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Automation
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אוטומציה
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>aw-toh-mah-tsee-ah</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Disk volume
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Size of a disk</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+נפח דיסק
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>nef-akh disk</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Cache memory
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+זיכרון מטמון
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>zikhron mat-mon</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Computer
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מחשב
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>makh-shev</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Mini PC
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מיני מחשב
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>mini makh-shev</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Brand/manufacturer
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מותג
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>moh-tehg</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Storage capacity
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+נפח אחסון
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>nef-akh ikh-sun</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Operating system (OS)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מערכת הפעלה
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>ma-ah-re-khet ha-fa-la</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Screen resolution
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+רזולוציית מסך
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>reh-zeh-loo-tsiat mah-sakh</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Generation (series)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+סדרה / גדם
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>See-drah / deh-gem</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Fingerprint reader (biometric security)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+קורא טביעת אצבע
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Koh-ray teh-vee-aht ets-bah</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Connection/connector
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+חיבור
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>khee-boor</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Generation (CPU generation, etc)
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+דור
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Door</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Android
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Mobile operating system</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אנדרואיד
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Same as English</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Range extender
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Networking appliance</div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+מגדיל טווח
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>mag-deal t'vakh</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Smartphone
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+סמארטפון
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>As English</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'>פלאפון&nbsp;</div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"
+"<p><b>English word:</p></b>
+
+Apple / iOS
+
+<p><b>English description:</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"	"<b><p>Common/colloquial term:</p></b>
+
+אפל / IOS
+
+<b><p>Transliteration</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'>Ah-pel</div>
+
+<p><b>Plural</b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+
+<hr>
+
+
+<b><p>Formal:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>English term used / understood?</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Other Hebrew terms used</p></b>
+
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<p><b>Example usage (Hebrew)</b></p>
+
+<b><p>Example usage (Hebrew), URL).</b><br/>
+<i>Note: URLs aren't regularly validated!</i>
+<br/><br/>
+
+<a href=""""></a>
+
+<hr>
+
+<b><p>Nekudot:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+
+<hr>
+
+<b><p>Notes:</p></b>
+
+<div style='font-family: ""Arial""; font-size: 20px;'></div>
+"

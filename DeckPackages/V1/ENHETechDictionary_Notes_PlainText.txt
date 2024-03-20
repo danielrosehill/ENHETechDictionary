@@ -1,0 +1,58 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:18
+L[=@T}0?s1	English to Hebrew definitions	English to Hebrew technology dictionary	NAS		שרת אחסון	Sharat ikh-sun		F									Hardware Source_Google_search
+g@1DVQlaXS	English to Hebrew definitions	English to Hebrew technology dictionary	Enclosure (for external HDD, SSD, etc)		"<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">מארז לכונן קשיח</span>"					"<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">מארז חיצוני</span>"				https://ksp.co.il/web/cat/348			Hardware Source_Google_search
+"oEy#sz+?IZ"	English to Hebrew definitions	English to Hebrew technology dictionary	Server	Computer for storing data	שרת&nbsp;	Shar-at		F						http://www.iserver.co.il/sharatim.html	"<span style=""color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"">שָׁרָת</span>"		Hardware
+dObJ|UTD67	English to Hebrew definitions	English to Hebrew technology dictionary	Case	Enclosure for hardware. As in a desktop case.&nbsp;	מארז	Ma-ah-raz	מארזי מחשב										Hardware
+OO)c}v`Hj4	English to Hebrew definitions	English to Hebrew technology dictionary	RAM	Random access memory	זיכרון												Hardware
+s*<9^qhh;:	English to Hebrew definitions	English to Hebrew technology dictionary	Desktop computer		מחשב נייח	Makhshev ni-yach				מחשב שולחני							Hardware
+PHQN0^kXMg	English to Hebrew definitions	English to Hebrew technology dictionary	Laptop		מחשב נייד	makh-shev na-yad											
+"Pj#aS]OQVC"	English to Hebrew definitions	English to Hebrew technology dictionary	GPU	Graphics processing unit (GPU), computer component&nbsp;	"<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">כרטיס מסך</span>"	car-tees ma-sakh											Hardware
+vNm7x-Yc8_	English to Hebrew definitions	English to Hebrew technology dictionary	Monitor arm&nbsp;	Arms for connecting computer monitors to desks by attaching to VESA mounts	זרוע למסך	zro-ah la-masakh											
+jr+3r8,x1+	English to Hebrew definitions	English to Hebrew technology dictionary	Tablet		טאבלט	tab-let						Yes, transliterated					
+gId&XTNMQm	English to Hebrew definitions	English to Hebrew technology dictionary	Screen	Computer monitor	"<span style=""color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);"">מסך</span>"	Mah-sakh											Hardware
+mz@Rjq`IBW	English to Hebrew definitions	English to Hebrew technology dictionary	CPU / Processor		מעבד	May-ah-ved											Hardware
+Qj4+PCzE4<	English to Hebrew definitions	English to Hebrew technology dictionary	Motherboard (computer component)		לוח אם	Lu-ach ehm											Hardware
+cNA>*W,oab	English to Hebrew definitions	English to Hebrew technology dictionary	Fan	Cooling devices - as in for CPUs&nbsp;	מאוורר&nbsp;	May-ah-vrayer											Hardware
+yTG$N+t%vk	English to Hebrew definitions	English to Hebrew technology dictionary	UPS	Uninterruptible power supply for hardware	אל ספק	al pesek							"<a href=""https://www.youtube.com/watch?v=qDtxenXUDrg&amp;ab_channel=HowToEvery"">https://www.youtube.com/watch?v=qDtxenXUDrg&amp;ab_channel=HowToEvery</a>"				Hardware
+FHTw-U1UCi	English to Hebrew definitions	English to Hebrew technology dictionary	Surge protector	Appliance to protect hardware from electrical surges&nbsp;	מגן ברק	mah-gayn bar-ak											
+Cjl>In~]Kt	English to Hebrew definitions	English to Hebrew technology dictionary	Container	As in Docker containers&nbsp;	קונטיינר	kon-tay-ner											Software
+D_NbXD+E8h	English to Hebrew definitions	English to Hebrew technology dictionary	Virtual machine (VM)		מכונה וירטואלית	me-kho-nah vir-too-ah-leet											Software
+HPI^D%SFj?	English to Hebrew definitions	English to Hebrew technology dictionary	Laser printer		מדפסת לייזר	mid-peh-set lay-zehr											Hardware
+pfVYO&:Tl	English to Hebrew definitions	English to Hebrew technology dictionary	IP address		כתובת IP	keh-toh-vet IP											Networking
+ME{~<T*Mq|	English to Hebrew definitions	English to Hebrew technology dictionary	Router	Networking appliance	נתב	nah-tav				ראוטר							Hardware Networking
+mbvM)?|tsH	English to Hebrew definitions	English to Hebrew technology dictionary	Networking card (NIC)		כרטיס רשת	car-tees reh-shet											Hardware Networking
+"RhRV#;|9#1"	English to Hebrew definitions	English to Hebrew technology dictionary	Switch	Networking switch for connecting wired devices	מתג	Meh-teg											Hardware Networking
+D-J2i@ndS.	English to Hebrew definitions	English to Hebrew technology dictionary	Splitter	Hardware device for dividing an input/output. For example, a USB or 3.5mm splitter.	מפצל	mif-tsel											Hardware
+MUV8L{ixPR	English to Hebrew definitions	English to Hebrew technology dictionary	Extension cable		כבל מאריך	kah-bel ma-ah-rich											
+D0{o5<JBN*	English to Hebrew definitions	English to Hebrew technology dictionary	Internet service provider (ISP)		ספק אינטרנט	Sa-pak internet&nbsp;											
+"Js#u:DGZ5o"	English to Hebrew definitions	English to Hebrew technology dictionary	Local area network (LAN)		רשת מקומית	Reh-shet m'koh-meet											
+g;_2m$5b,$	English to Hebrew definitions	English to Hebrew technology dictionary	Wide area network (WAN)		רשת תקשורת מרחבית												Networking
+ExUwe}[ORs	English to Hebrew definitions	English to Hebrew technology dictionary	Port	Networking port	פורט					יציאה							Networking
+rooP=gY9}|	English to Hebrew definitions	English to Hebrew technology dictionary	Port (hardware output)	For example a HDMI port	יציאה	Yeh-tsee-ah											Hardware
+Q-<8^]PAi=	English to Hebrew definitions	English to Hebrew technology dictionary	Wireless&nbsp;	Wireless devices like wireless mouses	אלחוטי	al-khutee											
+B={6|c|33f	English to Hebrew definitions	English to Hebrew technology dictionary	Ethernet	Wired networking cable and a synonym for the RJ45 port to connect to it	אטרנט	ee-ter-net				אינטרנט קווי							Networking
+P_DPB/+cYg	English to Hebrew definitions	English to Hebrew technology dictionary	USB adapter		מתאם&nbsp;	meh-tah-ehm											
+"nEfKT-]#2o"	English to Hebrew definitions	English to Hebrew technology dictionary	Remote control		שלט	sha-lat			שלט רחוק								
+jqu@P**z*&	English to Hebrew definitions	English to Hebrew technology dictionary	Integration	Systems integration, app integration	אינטגרציה	een-teh-grah-tsia											
+tJFOk2^${4	English to Hebrew definitions	English to Hebrew technology dictionary	Automation		אוטומציה	aw-toh-mah-tsee-ah											
+"x=#`zA6^G/"	English to Hebrew definitions	English to Hebrew technology dictionary	Disk volume	Size of a disk	נפח דיסק	nef-akh disk											Hardware
+GQc^dvOu)|	English to Hebrew definitions	English to Hebrew technology dictionary	Cache memory		זיכרון מטמון	zikhron mat-mon											
+EK(I!3Zi>?	English to Hebrew definitions	English to Hebrew technology dictionary	Computer		מחשב	makh-shev											Hardware
+mRAe4c]/}C	English to Hebrew definitions	English to Hebrew technology dictionary	Mini PC		מיני מחשב	mini makh-shev											
+ex=!Q-J89=	English to Hebrew definitions	English to Hebrew technology dictionary	Brand/manufacturer		מותג	moh-tehg											
+EPGiB|K~Pe	English to Hebrew definitions	English to Hebrew technology dictionary	Storage capacity		נפח אחסון	nef-akh ikh-sun											Hardware
+"l,WtR#N(s7"	English to Hebrew definitions	English to Hebrew technology dictionary	Operating system (OS)		מערכת הפעלה	ma-ah-re-khet ha-fa-la											Software
+"u-#{6&R^Tc"	English to Hebrew definitions	English to Hebrew technology dictionary	Screen resolution		רזולוציית מסך	reh-zeh-loo-tsiat mah-sakh											Hardware
+qRWC_pH}GH	English to Hebrew definitions	English to Hebrew technology dictionary	Generation (series)		סדרה / גדם	See-drah / deh-gem											Hardware
+A.-Nw:T>WD	English to Hebrew definitions	English to Hebrew technology dictionary	Fingerprint reader (biometric security)		קורא טביעת אצבע	Koh-ray teh-vee-aht ets-bah											Hardware
+fpN_dY5z^H	English to Hebrew definitions	English to Hebrew technology dictionary	Connection/connector		חיבור	khee-boor											
+o!MjXujUFv	English to Hebrew definitions	English to Hebrew technology dictionary	Generation (CPU generation, etc)		דור	Door											Hardware
+J@Mr.H</s2	English to Hebrew definitions	English to Hebrew technology dictionary	Android	Mobile operating system	אנדרואיד	Same as English											Software
+z2U?vE.>vH	English to Hebrew definitions	English to Hebrew technology dictionary	Range extender	Networking appliance	מגדיל טווח	mag-deal t'vakh											Hardware Networking
+tNTu;6`C._	English to Hebrew definitions	English to Hebrew technology dictionary	Smartphone		סמארטפון	As English				פלאפון&nbsp;							
+bem]ViRtL=	English to Hebrew definitions	English to Hebrew technology dictionary	Apple / iOS		אפל / IOS	Ah-pel											Software
