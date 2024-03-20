@@ -1,4 +1,4 @@
-# A Basic English-To-Hebrew Dictionary Built As An Anki Deck ##
+# A Basic English-To-Hebrew Dictionary Built As An Anki Deck
 
 This repository contains an English to Hebrew card deck providing translations in Hebrew of some commonly used words in the technology industry.
 
@@ -14,11 +14,7 @@ Every best attempt has been made in compiling this information, but the author t
 
 1. Download [Anki](https://apps.ankiweb.net/) (Windows, Mac, Linux, iOS, Android)
 
-
-
 ![readme1.png](/home/daniel/Git/ENHETechDictionary/images/readme1.png)
-
-
 
 ## Import Card Deck In Your Preferred Format
 
@@ -34,7 +30,7 @@ Each release (if there will ever be more than one!) is exported in all available
   
   
   
-  ![readme2.png](/home/daniel/Git/ENHETechDictionary/images/readme2.png)
+  ![readme2.png](https://github.com/danielrosehill/ENHETechDictionary/blob/master/images/readme2.png)
 
 ## 
 
@@ -73,11 +69,9 @@ Tag fields used:
 
 # Screenshots
 
-![readme3.png](/home/daniel/Git/ENHETechDictionary/images/readme3.png)
+![readme3.png](https://github.com/danielrosehill/ENHETechDictionary/blob/master/images/readme3.png)
 
-![readme4.png](/home/daniel/Git/ENHETechDictionary/images/readme4.png)
-
-
+![readme4.png](https://github.com/danielrosehill/ENHETechDictionary/blob/master/images/readme4.png)
 
 ## Want To Help?
 
@@ -85,12 +79,8 @@ Whether you've spotted some errors, have some words that should be included, or 
 
 Alternatively, please create a pull request.
 
-
-
 ### Author
 
 Daniel Rosehill
 
 (public at danielrosehill dot com)
-
-
